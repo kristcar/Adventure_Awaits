@@ -17,6 +17,13 @@ function HeroSection() {
         >
           GET STARTED
         </Button>
+        <Button
+          className="btns"
+          buttonStyle="btn--primary"
+          buttonSize="btn--large"
+        >
+          WATCH TRAILER <i className="far far-play-circle" />
+        </Button>
       </div>
     </div>
   );
