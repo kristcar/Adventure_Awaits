@@ -6,7 +6,8 @@ function CardItem(props) {
   return (
     <>
       <li className="cards__item">
-        <Link className="cards__item__link" to="{props.path}">
+        {/* <Link className="cards__item__link" to="{props.path}"> */}
+        <Link className="cards__item__link" to="/services">
           <figure
             className="cards__item__pic__wrap"
             data-category={props.label}
