@@ -41,7 +41,7 @@ function Cards() {
 
             <CardItem
               src="images/scotland.jpg"
-              text="Explore the Scotish Highlands"
+              text="Explore the Scottish Highlands"
               label="Adventure"
               path="/services"
             />
